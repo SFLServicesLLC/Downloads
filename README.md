@@ -1,5 +1,5 @@
 # Downloads
-This store is to give access to users to the application installation files from our private sections.
+This store is to give access to users to the application installation files from our public and private sections.
 
 [KSTool Download](https://www.sflservicesllc.com/software/KSTool/setup.exe)
 This application aims to enhance the Kiwiplan application suite by providing dashboards, reactive or preventive maintenance.  
